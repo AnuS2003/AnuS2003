@@ -1,4 +1,5 @@
-###Hello World!
+<div>
+Hello World!
 
 Welcome to my GitHub page!
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AnuS2003/)
@@ -8,4 +9,7 @@ Welcome to my GitHub page!
 
 # 💫 About Me:
 **I'm Anupama S, an Artificial Intelligence and Machine Learning student. I love diving into new technologies and exploring the exciting worlds of coding, front-end development, and machine learning. Delving into data studies is something I truly enjoy.**
+<hr />
   
+</div>
+
