@@ -9,7 +9,8 @@ Welcome to my GitHub page!</strong>
  # 🌱 What I'm learning: 
  - Exploring react.js and tailwind.css
  <hr />
- #🤝Connect with me 
- <a href="https:www.linkedin.com/in/anupamashettigar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https:www.linkedin.com/in/anupamashettigar/" height="30" width="40" /></a>
+ #🤝Connect with me :
+ 
+ <a href="https://www.linkedin.com/in/anupamashettigar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https//:www.linkedin.com/in/anupamashettigar/" height="30" width="40" /></a>
 </div>
 
