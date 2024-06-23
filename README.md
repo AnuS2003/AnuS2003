@@ -3,10 +3,10 @@
 Welcome to my GitHub page!</strong>
 
 
-# 💫 About Me:
+# 💫 About Me
 **I'm Anupama S, an Artificial Intelligence and Machine Learning student. I love diving into new technologies and exploring the exciting worlds of coding, front-end development, and machine learning. Delving into data studies is something I truly enjoy.**
 <hr />
- # 🌱 What I'm learning: 
+ **🌱 What I'm learning: **
  - Exploring react.js and tailwind.css
  <hr />
  ##🤝Connect with me :
