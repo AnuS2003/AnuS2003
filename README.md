@@ -9,8 +9,12 @@ Welcome to my GitHub page!</strong>
  # 🌱 What I'm learning: 
  - Exploring react.js and tailwind.css
  <hr />
- #🤝Connect with me :
+ ##🤝Connect with me :
  
- <a href="https://www.linkedin.com/in/anupamashettigar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https//:www.linkedin.com/in/anupamashettigar/" height="30" width="40" /></a>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupamashettigar)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_anupam4331_)
+ [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anupamacks589)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anupamacks589@gmail.com)
+ 
 </div>
 
