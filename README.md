@@ -6,7 +6,7 @@ Welcome to my GitHub page!</strong>
 # 💫 About Me
 **I'm Anupama S, an Artificial Intelligence and Machine Learning student. I love diving into new technologies and exploring the exciting worlds of coding, front-end development, and machine learning. Delving into data studies is something I truly enjoy.**
 <br/>
-**Check out portfolio [here!](https://portfolio-nu-one-64.vercel.app/)**
+**Check out portfolio [here!](https://portfolio-7y89.vercel.app/)**
 
 <div align="left">
  <ul>
